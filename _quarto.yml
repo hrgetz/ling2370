@@ -10,7 +10,6 @@ website:
       - href: schedule.qmd
         text: Schedule
 
-
 format:
   html:
     theme:
