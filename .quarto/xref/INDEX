@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "fa86c1dd"
+  },
+  "about.qmd": {
+    "about.html": "94559cf9"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "4f45d100"
+  },
+  "schedule.qmd": {
+    "schedule.html": "fa620d9b"
+  },
+  "project.qmd": {
+    "project.html": "a042ea9e"
+  }
+}

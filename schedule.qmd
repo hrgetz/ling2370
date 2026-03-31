@@ -1,0 +1,24 @@
+
+**Key:** <span class="slides-badge">Slides</span> / <span class="homework-badge">Homework assignment</span> / <span class="gal-badge">Grow a Language project</span>
+
+[Grow a Language project info](https://docs.google.com/document/d/1xfuJL36VuVvUdqxGpe5-lqOjPnI0l8jiph0KZhqI2rM/edit?tab=t.egq2a83060x6)
+
+| Date | Due | In class |
+| :---- | :---- | :---- |
+| Jan 14 | Read: LU p. 1-35 | [<span class="slides-badge">1. Language structure ↗</span>](https://docs.google.com/presentation/d/1Gw4oHBAlfsnRYtE9uBrUw5DOJKR-IEPPb9pZ5WYSNNM/edit?slide=id.p#slide=id.p) |
+| Jan 21 | <span class="homework-badge">Homework #1</span> | [<span class="slides-badge">2. Innateness; Iterated learning I ↗</span>](https://docs.google.com/presentation/d/1MX4eHaqIUJyw0f_A7rB3GRzaXjHGiQVeaQL6DxckWH8/edit) |
+| Jan 28 | <span class="homework-badge">Homework #2</span> | [<span class="slides-badge">3. Iterated Learning II ↗</span>](https://docs.google.com/presentation/d/1e8eicYMHj5s2iLBhwknZT1m_hQ0o2TcjNhiaW3a7F8E/edit?slide=id.p#slide=id.p)|
+| 2/4 | **Quiz #1** <br>  |[<span class="slides-badge">4. Discreteness in language ↗</span>](https://docs.google.com/presentation/d/1GNqxcI2lWf6_yDd2M5Fnx5mKx8CaYqWq6Ny8J-1n8t4/edit?slide=id.g3c412f92f15_0_576#slide=id.g3c412f92f15_0_576) |  |
+| 2/11 | <span class="gal-badge">Data collection for P1</span><br> Reading: Emmorey 2023 | [<span class="slides-badge">5. Sign languages ↗</span>](https://docs.google.com/presentation/d/1bj4KwLba-V89lh-zVcmoVagXnDqTkE7UagF5yRfmHHA/edit?slide=id.g3c74c11acc8_0_0#slide=id.g3c74c11acc8_0_0)<br>(**Dr. Carolyn Gershman**) |
+| 2/18 | Read: LU Ch. 4 | [<span class="slides-badge">6. Nicaraguan Sign Language ↗</span>](https://docs.google.com/presentation/d/1P1HS8ibEcd2kJ8CJOOdyguyJhd5lqOC5_WoycQ4t2og/edit?slide=id.g2b7156e81e5_1_50#slide=id.g2b7156e81e5_1_50) |
+| 2/25 | Read: LU Ch. 5 | [<span class="slides-badge">7. Possible and impossible languages ↗</span>](https://docs.google.com/presentation/d/1fucugnQzcRpOALLgkyjdkJ-KTw3Ee9scyGAA-sVknB4/edit?slide=id.g2b085a53193_0_95#slide=id.g2b085a53193_0_95) |
+| Spring break  |  |  |
+| 3/11 | <span class="homework-badge">Homework #3</span> <br><span class="gal-badge">Data collection for P1-P8</span> | [<span class="slides-badge">8. Deaf culture & home sign ↗</span>](https://docs.google.com/presentation/d/1NErAPYWa6nLmDlf7PzXwNUm5kUv8F8BfGJ83sZ3aWYw/edit?slide=id.g3ce25a3ecc8_0_0#slide=id.g3ce25a3ecc8_0_0)<br> ([**Dr. Matt Malzkuhn**](https://www.towson.edu/cla/departments/languages-literatures-cultures/facultystaff/matthew-malzkuhn.html)) |
+| 3/18 | Read: Osugi, Supalla, & Web 1999 | [<span class="slides-badge">9. Village sign languages ↗</span>](http://docs.google.com/presentation/d/1-RZ2tXQLMdxUBxdYtMQSqqo1SngptSPrxCYgCZN-ehU/edit?slide=id.g3d0e7d83cec_1_894#slide=id.g3d0e7d83cec_1_894)<br> ([**Dr. Ted Supalla**](http://www.georgetownslrl.com/team.html)) |
+| 3/25 | [<span class="homework-badge">Homework #4</span> ](https://docs.google.com/document/d/1S14GwRj6ESnRLntywKQqzPF-K4eXkFPldj4CzjaTtxM/edit?tab=t.1vva8zie9hxm) | [<span class="slides-badge">10. Language Acquisition I ↗</span>](https://docs.google.com/presentation/d/1NcaJWaVAPfRxuEEpL_mVH0ZmTvk0sCrFO9TXJmTlKKY/edit?slide=id.g2c8c635e51c_0_1442#slide=id.g2c8c635e51c_0_1442) |
+| 4/1 | <span class="gal-badge">Data collection through P10</span><br> Read: Gleitman & Newport 1995 |  <br>[<span class="slides-badge">11. Language Acquisition II ↗</span>](https://docs.google.com/presentation/d/1byqwXoEnsPF9PJhyucYlW58jhCdCry9Fxlc-9YDoLns/edit?slide=id.g2c81de1b7b3_0_149#slide=id.g2c81de1b7b3_0_149)  |
+| 4/8 | <span class="gal-badge">Data collection through P12</span><br> Read: LU Ch. 6 |[<span class="slides-badge">12. Animal communication ↗</span>](https://docs.google.com/presentation/d/1T3lzBIVbn63KT87iO6dEhIdH_sKbPzq2urp5ss1g8eI/edit) |
+| 4/15 | Read: TBD | [<span class="slides-badge">13. Can animals learn language? ↗</span>](https://docs.google.com/presentation/d/1rQ97OSJ_T6cXvn5uBAEJRoYLSgpy4SWvVp1CoWClZjY/edit)<br> Watch *Project Nim* |
+| 4/22 | <span class="gal-badge">GaL: Present results</span> | (Last day of class) |
+| Monday, 4/27 | <span class="homework-badge">Homework #5</span>  |  |
+| Saturday, 5/9 |<span class = "gal-badge">GaL: final paper</span>   |  |

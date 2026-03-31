@@ -1,0 +1,16 @@
+---
+title: "LING-2370: Nature, Nurture, & Language"
+---
+
+# Course description
+Why is human language the way that it is? This course will examine how human language is shaped by “nature” (the biological and genetic characteristics of human beings) as well as by “nurture” (the cultural and social contexts in which humans develop, learn, and use language). We will examine the linguistic structure of natural languages, both spoken and signed, to identify the ways in which languages differ from one another—and the ways in which they do not. To understand how language came to be this way, we will ask which aspects of this (in)variability are present in the rudimentary communication systems developed by Deaf children who grow up without exposure to a natural signed language; in new or emerging human languages (e.g., Nicaraguan Sign Language, Amami Island Sign Language); and in animal communication systems. We will also examine how the process of cultural transmission influences language structure, using evidence from the development of real languages and also from psychological experiments on language evolution in the lab. A major component of the course is our “Grow a Language” project, in which students construct an artificial language and study how the language changes as it is transmitted from one “generation” of learners to the next (a replication of a famous psychological experiment). Through the course, students will gain insight into the deep similarities across languages (including signed languages); the ability to identify and interpret scientific evidence relevant to the nature/nurture question in human cognition; and hands-on experience conducting an experiment in psycholinguistics.
+
+# Learning goals
+The course is designed to achieve the following learning outcomes:
+
+* Knowledge of how languages are structured  
+* Knowledge of the equality of languages and language varieties and commonly held misconceptions about them (especially signed languages)  
+* Knowledge of the complexity and underlying systematicity of natural languages  
+* Knowledge of the theories and empirical findings relevant to the nature/nurture question in language structure and acquisition  
+* Ability to analyze and interpret linguistic and psycholinguistic data  
+* Ability to carry out a psycholinguistic research experiment
